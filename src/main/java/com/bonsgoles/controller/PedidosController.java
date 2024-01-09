@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.model.Pedidos;
-import com.repository.PedidosRepository;
+import com.bonsgoles.model.Pedidos;
+import com.bonsgoles.repository.PedidosRepository;
 
 import lombok.AllArgsConstructor;
 
